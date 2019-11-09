@@ -1,0 +1,89 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #F2DFD8;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: #40312E;
+    font-weight: 300;
+    font-size: 16px;
+    overflow: scroll;
+}
+.nav{
+    height: 5%;
+    margin-top: 1%;
+    margin-left: 2%;
+    font-size: 32px;
+}
+.info{
+    height: 5%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    margin-left: 2%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .left{
+    width: 35%;
+  }
+
+  .right{
+    width: 56%;
+  }
+
+  #mapdiv {
+	width	: 90%;
+    height	: 90%;
+    background-color: #F2DFD8;
+}
+
+button {
+    background-color: #26120B;
+    border: none;
+    color: #F2DFD8;
+    padding: 10px 22px;
+    text-align: bottom;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 38px;
+    cursor: pointer;
+    border-radius: 5px;
+    /* font-family: 'Lakki Reddy', cursive; */
+  }
+
+  button:hover{
+    background-color: #40312E;
+  }
+
+  button:disabled{
+    background-color: #A68477;
+  }
+
+  #result{
+    color: #26120B;
+    height: 8%;
+    width: 100%;
+    font-weight: 500;
+    font-size: 36px;
+    margin-bottom: 3%;
+}
+
+#chartdiv {
+    width: 90%;
+    height: 70%;
+}
+
+h1{
+  font-family: 'Lakki Reddy', cursive;
+}

@@ -1,0 +1,11 @@
+<option selected value="base">Select a sub-category</option>
+<option>Household_size_1_person_Households</option>
+<option>Household_size_2_persons_Households</option>
+<option>Household_size_1_to_2_persons</option>
+<option>Household_size_3_persons_Households</option>
+<option>Household_size_3_to_5_persons_Households</option>
+<option>Household_size_4_persons_Households</option>
+<option>Household_size_5_persons_Households</option>
+<option>Household_size_6_8_persons_Households</option>
+<option>Household_size_9_persons_and_above_Households</option>
+<option>Households_with_separate_kitchen_Cooking_inside_house</option>

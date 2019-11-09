@@ -1,0 +1,12 @@
+<option selected value="base">Select a sub-category</option>
+<option>Households_with_Computer</option>
+<option>Households_with_Bicycle</option>
+<option>Households_with_Car_Jeep_Van</option>
+<option>Households_with_Radio_Transistor</option>
+<option>Households_with_Scooter_Motorcycle_Moped</option>
+<option>Households_with_Telephone_Mobile_Phone_Landline_only</option>
+<option>Households_with_Telephone_Mobile_Phone_Mobile_only</option>
+<option>Households_with_TV_Computer_Laptop_Telephone_mobile_phone_and_Scooter_Car</option>
+<option>Households_with_Television</option>
+<option>Households_with_Telephone_Mobile_Phone</option>
+<option>Households_with_Telephone_Mobile_Phone_Both</option>

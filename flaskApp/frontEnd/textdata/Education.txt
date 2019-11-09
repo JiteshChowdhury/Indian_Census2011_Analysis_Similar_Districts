@@ -1,0 +1,13 @@
+<option selected value="base">Select a sub-category</option>
+<option>Below_Primary_Education</option>
+<option>Primary_Education</option>
+<option>Middle_Education</option>
+<option>Secondary_Education</option>
+<option>Higher_Education</option>
+<option>Graduate_Education</option>
+<option>Other_Education</option>
+<option>Literate_Education</option>
+<option>Illiterate_Education</option>
+<option>Total_Education</option>
+<option>Male_Literate</option>
+<option>Female_Literate</option>

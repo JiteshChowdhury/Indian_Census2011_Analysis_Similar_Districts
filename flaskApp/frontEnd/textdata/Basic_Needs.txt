@@ -1,0 +1,23 @@
+<option selected value="base">Select a sub-category</option>
+<option>LPG_or_PNG_Households</option>
+<option>Housholds_with_Electric_Lighting</option>
+<option>Type_of_bathing_facility_Enclosure_without_roof_Households</option>
+<option>Type_of_fuel_used_for_cooking_Any_other_Households</option>
+<option>Type_of_latrine_facility_Pit_latrine_Households</option>
+<option>Type_of_latrine_facility_Other_latrine_Households</option>
+<option>Type_of_latrine_facility_Night_soil_disposed_into_open_drain_Households</option>
+<option>Type_of_latrine_facility_Flush_pour_flush_latrine_connected_to_other_system_Households</option>
+<option>Not_having_bathing_facility_within_the_premises_Total_Households</option>
+<option>Not_having_latrine_facility_within_the_premises_Alternative_source_Open_Households</option>
+<option>Main_source_of_drinking_water_Un_covered_well_Households</option>
+<option>Main_source_of_drinking_water_Handpump_Tubewell_Borewell_Households</option>
+<option>Main_source_of_drinking_water_Spring_Households</option>
+<option>Main_source_of_drinking_water_River_Canal_Households</option>
+<option>Main_source_of_drinking_water_Other_sources_Households</option>
+<option>Main_source_of_drinking_water_Other_sources_Spring_River_Canal_Tank_Pond_Lake_Other_sources__Households</option>
+<option>Location_of_drinking_water_source_Near_the_premises_Households</option>
+<option>Location_of_drinking_water_source_Within_the_premises_Households</option>
+<option>Main_source_of_drinking_water_Tank_Pond_Lake_Households</option>
+<option>Main_source_of_drinking_water_Tapwater_Households</option>
+<option>Main_source_of_drinking_water_Tubewell_Borehole</option>
+<option>Location_of_drinking_water_source_Away_Households</option>

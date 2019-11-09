@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="newStyle.css">
+        <link rel="stylesheet" href="dropdown.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+        <script src="https://www.amcharts.com/lib/3/ammap.js"></script>
+        <script src="https://www.amcharts.com/lib/3/maps/js/indiaLow.js"></script>
+        <script src="https://www.amcharts.com/lib/3/themes/none.js"></script>
+        <script src="https://www.amcharts.com/lib/4/core.js"></script>
+        <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+        <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+        <script src="newScript.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Gochi+Hand&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lakki+Reddy|Montserrat&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="nav">
+            <h1>Tale of 2 States!</h1>
+        </div>
+        <div class="info">
+            <h2>This page helps you analyse the similarity between 2 states.</br>Please select the two states from the map and select your category for analysis.</h2>
+        </div>
+        <div class="row">
+            <div class="column left">
+                    <div id="mapdiv"></div>
+            </div>
+            <div class="column right" style="margin-top: 3%;">
+                <div class="row">
+                    <div class="column left">
+                        <div class="select">
+                            <select id="text-one" onchange="setCategory()">
+                                <option selected value= "null">Category</option>
+                                <option value="Religion">Religion</option>
+                                <option value="Education">Education</option>
+                                <option value="Caste">Cast</option>
+                                <option value="Workers">Workers</option>
+                                <option value="Basic_Needs">Basic Needs</option>
+                                <option value="Living_Standards">Living Standards</option>
+                                <option value="Socio_Economic_Status">Socio Economic Status</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="column right">
+                        <div class="select">
+                            <select id="text-two" onchange="setSubCategory()">
+                                <option>Sub-Category</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column left" style="margin-top: 1%;">
+                        <button id="submitButton" type="button" onclick="" disabled>Get Result</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div id="checking" hidden>
+                        <img src="animate.gif" style="width:60%; margin-left: 2%;"></br>
+                        <h2 style="margin-left: 7%;">Preparing your DATA...</h2>
+                    </div>
+                </div>
+                <div class="row" style="margin: 2.5%;">
+                    <div id="result"></div>
+                </div>
+                <div class="row" style="margin: 2.5%;">
+                    <div id="chartdiv"></div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

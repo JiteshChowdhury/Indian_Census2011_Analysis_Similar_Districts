@@ -1,0 +1,7 @@
+<option selected value="base">Select a sub-category</option>
+<option>SC</option>
+<option>Male_SC</option>
+<option>Female_SC</option>
+<option>ST</option>
+<option>Male_ST</option>
+<option>Female_ST</option>

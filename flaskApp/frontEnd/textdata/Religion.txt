@@ -1,0 +1,9 @@
+<option selected value="base">Select a sub-category</option>
+<option>Hindus</option>
+<option>Muslims</option>
+<option>Christians</option>
+<option>Sikhs</option>
+<option>Buddhists</option>
+<option>Jains</option>
+<option>Others_Religions</option>
+<option>Religion_Not_Stated</option>

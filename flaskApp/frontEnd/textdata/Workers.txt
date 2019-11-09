@@ -1,0 +1,11 @@
+<option selected value="base">Select a sub-category</option>
+<option>Workers</option>
+<option>Male_Workers</option>
+<option>Female_Workers</option>
+<option>Main_Workers</option>
+<option>Marginal_Workers</option>
+<option>Non_Workers</option>
+<option>Cultivator_Workers</option>
+<option>Agricultural_Workers</option>
+<option>Household_Workers</option>
+<option>Other_Workers</option>
